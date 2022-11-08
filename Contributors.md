@@ -14,6 +14,7 @@ Asad Mehmood
 - [Vedant Mate](https://github.com/VedantMate/)
 - [Matteo DeSimone](github.com/TheMatteoD)
 - [Soy Mariana] (https://github.com/mariana-aguilar)
+- [bac0id](https://github.com/bac0id)
 - [shauryas](https://github.com/shauryas)
 - [ignasPlace](https://github.com/IgnasPlace)
 pnordboj
